@@ -84,4 +84,11 @@ The Physical Layer defines how bits are passed over a medium. These bits can be 
 And the medium can be things such as:  
 - Coaxial Cable
 - Twisted-Pair Copper Cable
-- Fibre-Optic Cable
+- Fibre-Optic Cable  
+
+## Glossary
+
+### Encapsulation
+### Transport Layer - Error Detection
+### Transport Layer - Flow Control
+
