@@ -2,7 +2,7 @@
 
 The OSI Model is used to divide data communications into seven distinct layers, shown below:
 
-![Picture of the OSI Model](osiModel1.png)  
+![Picture of the OSI Model](Images/osiModel1.png)  
 ## Layers of the OSI Model
 
 ### Application Layer (7)
